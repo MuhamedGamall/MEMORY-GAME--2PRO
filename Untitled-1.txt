@@ -1,0 +1,6 @@
+// create HTML ✅
+// create Styel ✅
+// create varibles ✅
+// function start button and enter name  ✅
+// function random Images ✅
+// function add and remove flipped card ✅
